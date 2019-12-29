@@ -20,7 +20,7 @@
     <hr>
 
     <br>
-    <b>Legende:</b>
+    <b>Legende: </b>
     <br>
     <font color="green"><b>Erledigt</b></font>
     <br>
